@@ -174,6 +174,6 @@ Durante o desenvolvimento, foram consolidados conhecimentos sobre:
 ## 👩‍💻 Autora
 
 Desenvolvido por Jordana Loreto
-Desenvolvedora Fullstack em transição para Segurança da Informação
+Desenvolvedora Fullstack
 
 ---
